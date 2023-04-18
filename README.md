@@ -4,12 +4,24 @@
 
 
 
-1. [Dwonload model](https://the-eye.eu/public/AI/models/nomic-ai/gpt4all/gpt4all-lora-quantized-ggml.bin)
+**Step 1**: [Download model](https://the-eye.eu/public/AI/models/nomic-ai/gpt4all/gpt4all-lora-quantized-ggml.bin)
 
-2. conda env create -f environment.yml
+**Step 2**
 
-3. conda activate gpt
+```bash
+$ conda env create -f environment.yml
+```
 
-4. jupyterlab
+**Step 3**
 
-5. Go to jupyter url and run [notebook.ipynb](https://github.com/adrianmarino/gpt4-quantized/blob/master/notebook.ipynb)
+```bash
+$ conda activate gpt
+```
+
+**Step 4** 
+
+```bash
+$ jupyterlab
+```
+
+**Step 5**: Go to jupyter url and run [notebook.ipynb](https://github.com/adrianmarino/gpt4-quantized/blob/master/notebook.ipynb)
