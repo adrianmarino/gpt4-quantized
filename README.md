@@ -3,6 +3,10 @@
 ## gpt4all-lora-quantized-ggml locally!
 
 
+## Requisitos
+
+* [miniconda](https://docs.conda.io/en/latest/miniconda.html) or [mamba](https://github.com/mamba-org/mamba)
+
 
 **Step 1**: [Download model](https://the-eye.eu/public/AI/models/nomic-ai/gpt4all/gpt4all-lora-quantized-ggml.bin).
 
