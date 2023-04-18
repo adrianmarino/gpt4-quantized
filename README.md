@@ -36,3 +36,7 @@ http://localhost:8888/?token=45efe99607fa6......```
 ```
 
 **Step 5**: Go to jupyter url and run [notebook.ipynb](https://github.com/adrianmarino/gpt4-quantized/blob/master/notebook.ipynb)
+
+## References
+
+* [llama.cpp](https://github.com/ggerganov/llama.cpp)
