@@ -4,7 +4,7 @@
 
 
 
-1. get model from https://the-eye.eu/public/AI/models/nomic-ai/gpt4all/gpt4all-lora-quantized-ggml.bin
+1. [Dwonload model](https://the-eye.eu/public/AI/models/nomic-ai/gpt4all/gpt4all-lora-quantized-ggml.bin)
 
 2. conda env create -f environment.yml
 
