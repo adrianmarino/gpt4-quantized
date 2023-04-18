@@ -4,7 +4,7 @@
 
 Run locally a quantized GTP4 version.
 
-![image](https://user-images.githubusercontent.com/962480/232643607-94110229-8594-427a-8edf-e60b57fbc97e.png)
+![image](https://user-images.githubusercontent.com/962480/232647090-76b4e64d-f122-4ff4-b0ff-fc024622d619.png)
 
 ## Requirements
 
