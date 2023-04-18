@@ -12,4 +12,4 @@
 
 4. jupyterlab
 
-5. Got to jupyter url and run notebook.ipynb
+5. Go to jupyter url and run notebook.ipynb
