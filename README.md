@@ -1,7 +1,8 @@
 
 
-## gpt4all-lora-quantized-ggml locally!
+## gpt4all-lora-quantized-ggml
 
+Run locally a quantized GTP4 version.
 
 ## Requirements
 
