@@ -1,0 +1,10 @@
+name: gpt
+channels:
+    - defaults
+dependencies:
+    - python=3.8
+    - jupyterlab
+    - pip
+    - pip:
+        - llama-cpp-python
+        
