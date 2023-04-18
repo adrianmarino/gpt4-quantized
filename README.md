@@ -3,7 +3,7 @@
 ## gpt4all-lora-quantized-ggml locally!
 
 
-## Requisitos
+## Requirements
 
 * [miniconda](https://docs.conda.io/en/latest/miniconda.html) or [mamba](https://github.com/mamba-org/mamba)
 
