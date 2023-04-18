@@ -12,4 +12,4 @@
 
 4. jupyterlab
 
-5. Go to jupyter url and run notebook.ipynb
+5. Go to jupyter url and run [notebook.ipynb](https://github.com/adrianmarino/gpt4-quantized/blob/master/notebook.ipynb)
