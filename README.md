@@ -28,7 +28,8 @@ $ conda activate gpt
 
 **Step 4** 
 
-```bash$ jupyter lab
+```bash
+$ jupyter lab
 
 Jupyter Notebook 6.1.4 is running at:
 http://localhost:8888/?token=45efe99607fa6......```
