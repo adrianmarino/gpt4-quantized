@@ -4,6 +4,9 @@
 
 Run locally a quantized GTP4 version.
 
+![image](https://user-images.githubusercontent.com/962480/232643537-13072821-5abc-45bf-921a-c2fa6391d6fa.png)
+
+
 ## Requirements
 
 * [miniconda](https://docs.conda.io/en/latest/miniconda.html) or [mamba](https://github.com/mamba-org/mamba)
