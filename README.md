@@ -2,7 +2,7 @@
 
 ## gpt4all-lora-quantized-ggml
 
-Run locally a quantized GTP4 version with 4096 characters context.
+Run locally a quantized GTP4 version with **4096** characters context.
 
 ![image](https://user-images.githubusercontent.com/962480/232647090-76b4e64d-f122-4ff4-b0ff-fc024622d619.png)
 
