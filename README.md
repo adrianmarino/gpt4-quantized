@@ -16,7 +16,7 @@ Also use a langchan agent to use external [tools](https://python.langchain.com/e
 
 ## Setup
 
-**Step 1**: Download model fro **[Here](https://the-eye.eu/public/AI/models/nomic-ai/gpt4all/gpt4all-lora-quantized-ggml.bin)**.
+**Step 1**: Download model from **[Here](https://the-eye.eu/public/AI/models/nomic-ai/gpt4all/gpt4all-lora-quantized-ggml.bin)**.
 
 **Step 2**: creatae ./models directory and move `gpt4all-lora-quantized-ggml.bin` model file to it. 
 
