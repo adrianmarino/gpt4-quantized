@@ -12,31 +12,36 @@ Run locally a quantized GTP4 version.
 
 ## Setup
 
-**Step 1**: [Download model](https://the-eye.eu/public/AI/models/nomic-ai/gpt4all/gpt4all-lora-quantized-ggml.bin).
+**Step 1**: Download model fro **[Here](https://the-eye.eu/public/AI/models/nomic-ai/gpt4all/gpt4all-lora-quantized-ggml.bin)**.
 
-**Step 2**
+**Step 2**: creatae ./models directory and move `gpt4all-lora-quantized-ggml.bin` model file to it. 
+
+
+**Step 3**
 
 ```bash
 $ conda env create -f environment.yml
 ```
 
-**Step 3**
+**Step 4**
 
 ```bash
 $ conda activate gpt
 ```
 
-**Step 4** 
+**Step 5** 
 
 ```bash
 $ jupyter lab
 
 Jupyter Notebook 6.1.4 is running at:
-http://localhost:8888/?token=45efe99607fa6......```
+http://localhost:8888/?token=45efe99607fa6......
 ```
 
-**Step 5**: Go to jupyter url and run [notebook.ipynb](https://github.com/adrianmarino/gpt4-quantized/blob/master/notebook.ipynb)
+**Step 6**: Go to jupyter url and run [model.ipynb](https://github.com/adrianmarino/gpt4-quantized/blob/master/model.ipynb) or [agent.ipynb](https://github.com/adrianmarino/gpt4-quantized/blob/master/agent.ipynb)
+
 
 ## References
 
 * [llama.cpp](https://github.com/ggerganov/llama.cpp)
+* [LangChain](https://python.langchain.com/en/latest/index.html)

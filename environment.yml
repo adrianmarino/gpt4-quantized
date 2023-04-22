@@ -2,10 +2,13 @@ name: gpt
 channels:
     - defaults
 dependencies:
-    - python=3.8
+    - python=3.10
     - jupyterlab
     - pip
     - pip:
+        - pytorch-common==0.1.2
         - llama-cpp-python
         - langchain
-        
+        - google-api-python-client
+        - wolframalpha
+        - wikipedia
